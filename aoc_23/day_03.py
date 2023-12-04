@@ -66,6 +66,10 @@ print(f"part 1 solution = {part_1(raw_data)}")
 
 
 def part_2(data):
+    # find gears in a line
+    # get coordinates of gear
+    # check if neighbours are numbers
+    # if yes - use re.search to find full number
     return None
 
 # print(f"part 2 solution = {part_2(raw_data)}")
